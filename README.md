@@ -8,3 +8,5 @@
 ## Workspaces
 1. Gradle
 2. Maven, Docker
+## Needed Peoples
+1. Who is able to make sounds
