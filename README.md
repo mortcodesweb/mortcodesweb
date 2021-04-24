@@ -7,6 +7,6 @@
 5. Python
 ## Workspaces
 1. Gradle
-2. Maven, Docker
+2. Docker
 ## Needed Peoples
 1. Who is able to make sounds
