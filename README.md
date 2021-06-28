@@ -1,4 +1,4 @@
-# 360 Initiative Boss
+# 360 Initiative Owner
 ## Coding Languages
 HTML, CSS, JavaScript, PHP, Java, Kotlin, C, C++, C#, Assembly, Python
 ## Workspaces
