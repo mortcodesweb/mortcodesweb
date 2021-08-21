@@ -11,4 +11,5 @@ modmuss50, if you read this. Just get the fuck away and both of us will be bette
 What will you gain annoying me and abusing me you fucking retard?
 And if you involve your members or team into a small problem you turned it into a miserable massive problem. This proves out that you are so much of a loser you cant just stop and let both of us have a break.\
 If you banned me. End of story... No need to act like a child. You broke the TOS of discord alot. Happy now or you cant stop being a child who likes keeping a problem live longer?\
-Seriously. Fuck you modchild50
+Seriously. Fuck you modchild50\
+The problem was i said fuck in your server. And you decided to be so dramatic and a child about it. Son of a bitch you can't force someone to do somethime you like, this is completely wrong. Saying a swear word is not the end of the world you damn dramatic child.\
