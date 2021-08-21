@@ -1,4 +1,6 @@
 ## Coding Languages
-HTML, CSS, JavaScript, SVG, PHP, JSON, Java, Kotlin, C, C++, C#, Assembly, Python, Powershell, Bash, Batch
+HTML, CSS, JavaScript, SVG, PHP, JSON, Java, Kotlin, C, C++, C#, Assembly, Python, Powershell, Bash and Batch
 ## Workspaces
-Make, Gradle, Docker, Custom
+Make, Gradle, Docker and Custom
+## Manchildrens
+modmuss50, modmuss50, modmuss50 and modmuss50
