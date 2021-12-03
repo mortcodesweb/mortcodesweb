@@ -5,3 +5,5 @@ Make/Makefile, Gradle, Docker, Node.js Package(s) and Custom.
 ## Yo mama is a fat cow.
 This video is Sponsored by Raid Shadow Legends.
 *for god sake. i heard it too much the name can make me avoid the game.*
+<hr>
+<img src="" alt="">
