@@ -1,0 +1,9 @@
+<svg width="16" height="16" viewBox='0 0 16 16' xmlns="http://www.w3.org/2000/svg">
+    <def>
+        <linearGradient id="g0" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color: #ff4040; stop-opacity: 1;" />
+            <stop offset="100%" style="stop-color: #800000; stop-opacity: 1;" />
+        </linearGradient>
+    </def>
+    <path d="M 5 2 C 3.5 2 2 3.5 2 5 M 2 5 C 2 6.5 2.5 10 8 14 M 8 14 C 13.5 10 14 6.5 14 5 M 14 5 C 14 3.5 13 2 11 2 M 11 2 C 9.5 2 8 3 8 4 M 8 4 C 8 3 6.5 2 5 2 M 5 2 L 2 5 L 8 14 L 14 5 L 11 2 L 8 4" fill="url(#g0)"/>
+</svg>

@@ -1,0 +1,132 @@
+@keyframes bounceLetter {
+  0% {
+    transform: translateY(0);
+  }
+  25% {
+    transform: translateY(-2px);
+  }
+  50% {
+    transform: translateY(0);
+  }
+  75% {
+    transform: translateY(-2px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes hoverBar {
+  0% {
+    transform: scaleX(0);
+  }
+  100% {
+    transform: scaleX(1);
+  }
+}
+
+body {
+  font-family: sans-serif;
+  background: #303038;
+  color: #fff;
+}
+
+.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 3rem;
+  background: #404048;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.25);
+  padding: 0;
+  box-sizing: border-box;
+  z-index: 1;
+}
+
+.header > * {
+  display: block;
+  float: left;
+  color: #fff;
+  margin: 1rem 1rem;
+  text-decoration: none;
+  position: relative;
+}
+
+.header > *:hover {
+  background: #303038;
+  margin: 0.2rem 0.5rem;
+  padding: 0.75rem 0.5rem;
+  border-radius: 0.25rem;
+}
+
+.header > *:hover:before {
+  position: absolute;
+  left: 25%;
+  bottom: 0.125rem;
+  width: 50%;
+  height: 0.25rem;
+  background: #00a0ff;
+  content: "";
+  border-radius: 2rem;
+  display: block;
+  animation: hoverBar 0.25s cubic-bezier(0.2, 0.9, 0.1, 1);
+}
+
+.header > *:hover:after {
+  position: absolute;
+  right: -0.5rem;
+  top: 0.275rem;
+  width: 1px;
+  height: 2rem;
+  background: #888;
+  content: "";
+}
+
+.header > *:after {
+  position: absolute;
+  right: -1rem;
+  top: -0.5rem;
+  width: 1px;
+  height: 2rem;
+  background: #888;
+  content: "";
+}
+
+.header > a > span {
+  transition: 0.125s;
+  font-weight: bold;
+  float: right;
+  display: block;
+}
+
+.header > a > span:last-child {
+  margin-left: 0.25rem;
+}
+
+.header > a:hover > span:nth-child(1) {
+  animation: bounceLetter 0.625s cubic-bezier(0.2, 0, 0.1, 1);
+  color: #0080ff;
+}
+
+.header > a:active > span:nth-child(1) {
+  color: #00c0ff;
+}
+
+.header > a:hover > span:nth-child(2) {
+  animation: bounceLetter 0.5s cubic-bezier(0.2, 0, 0.1, 1);
+}
+
+.header > a:hover > span:nth-child(2),
+.header > a:active > span:nth-child(2) {
+  color: #00a0ff;
+}
+
+.header > a:hover > span:nth-child(3) {
+  animation: bounceLetter 0.375s cubic-bezier(0.2, 0, 0.1, 1);
+  color: #00c0ff;
+}
+
+.header > a:active > span:nth-child(3) {
+  color: #0080ff;
+}
