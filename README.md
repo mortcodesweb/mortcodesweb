@@ -1,5 +1,5 @@
 ## Coding Languages
-HTML, CSS, JavaScript, SVG, XML, XHTML, PHP, JSON, Java, Kotlin, C, C++, C#, Assembly, Python, Powershell, Bash, Batch, Svelte, Coffeescript, Typescript, Vue, Node.js and Groovy.
+HTML, CSS, JavaScript, SVG, XML, JSON, Java, Bash, Svelte, Coffeescript, Node.JS.
 ## Workspaces
 Make/Makefile, Gradle, Docker, Node.js Package(s) and Custom.
 ## About
