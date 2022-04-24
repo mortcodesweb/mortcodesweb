@@ -1,5 +1,4 @@
-<img src="user.png" width="64" style="float:left;"></img>
-<p style="float:left;margin:0 10px;font-size:24px;line-height:64px;font-family:sans-serif;">MortCodesWeb</p>
+## <img src="user.png" width="64" style="float:left;"></img> MortCodesWeb
 
 ## Coding Languages
 HTML, CSS, JavaScript, SVG, XML, JSON, Java, Bash, Svelte, Coffeescript, Node.JS.
