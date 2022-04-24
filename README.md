@@ -1,4 +1,4 @@
-<img src="user.png" width="64">
+<img src="user.png" width="64" />
 ## Coding Languages
 HTML, CSS, JavaScript, SVG, XML, JSON, Java, Bash, Svelte, Coffeescript, Node.JS.
 ## Workspaces
