@@ -5,4 +5,4 @@ HTML, CSS, JavaScript, SVG, XML, JSON, Java, Bash, Svelte, Coffeescript, and Nod
 ## Workspaces
 Make/Makefile, Gradle, Node.js Package(s) and Custom.
 ## About
-Minecraft mods? A thing from the past envaded by stans. lol (and 'Lol' with capital L for the sad guys)
+Not a fan of either current open source projects or github. 
