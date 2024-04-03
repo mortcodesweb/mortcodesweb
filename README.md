@@ -1,4 +1,4 @@
-# <img src="https://orchid-f39a9.web.app/assets/defaultuser.png" width="32" style="float:left;"></img> MortCodesWeb
+# MortCodesWeb
 
 ## Coding Languages
 HTML, CSS, JavaScript, SVG, XML, JSON, Java, Bash, Some Rust, and Node.js
