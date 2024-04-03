@@ -7,6 +7,8 @@ So basically I'm a ex-Minecraft JAPPA-like mod artist that decided to code a OS 
 
 Thank you bullies, now I have a life and a real career unlike you. Hope Java gets you guys anywhere since nobody uses Java except Android app developers and all will you do is write android app bootstraps. Not the app. Me tho. I code the platform.
 
+Good luck with your half ass mods and oily piss-like JAPPA wannabe textures. Advice from me. JAPPA textures are balance of rough and flat, not oily smooth.
+
 # BEWARE: Blurryface is EMQSA Grupo
 Yes. The same dude who faked a long friendship, worried me for entertainment, asked for Orchid user data keys, defended bullying, scammed people, tried to use me as a scapegoat to scam by attaching his scam with Orchid, tricked me into free labour aaand doxxed me when i got COVID-19 and couldn't help him (Mihaisirius moment), tried to lie and make up shit on the spot to justify doxxing me, says the n-word non-hesitently, hides IP grabbers in his own website, and always hides behind "youre homophobic" to excuse his shit.
 
