@@ -9,7 +9,7 @@ Thank you bullies, now I have a life and a real career unlike you. Hope Java get
 
 Good luck with your half ass mods and oily piss-like JAPPA wannabe textures. Advice from me. JAPPA textures are balance of rough and flat, not oily smooth.
 
-This whole Minecraft community has betrayed me and treated me like garbage so I delivered a giant "fuck you" present with Orchid :D
+This whole Minecraft community has betrayed me and treated me like garbage numerous times that I lost track so I delivered a giant "fuck you" gift with Orchid :D
 
 # BEWARE: Blurryface is EMQSA Grupo
 Yes. The same dude who faked a long friendship, worried me for entertainment, asked for Orchid user data keys, defended bullying, scammed people, tried to use me as a scapegoat to scam by attaching his scam with Orchid, tricked me into free labour aaand doxxed me when i got COVID-19 and couldn't help him (Mihaisirius moment), tried to lie and make up shit on the spot to justify doxxing me, says the n-word non-hesitently, hides IP grabbers in his own website, and always hides behind "youre homophobic" to excuse his shit.
