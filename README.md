@@ -16,3 +16,5 @@ Yes. The same dude who faked a long friendship, worried me for entertainment, as
 
 Never change, Asshole. Never change.
 <img src="blurryface.png"></img>
+
+Update: He also for god knows why searches up and shares CP and actually buys illegal shit from dark web
