@@ -1,13 +1,15 @@
 # MortCodesWeb
+(Mainly a native developer. misleading name lol)
 
-## Coding Languages (Skilled to Unskilled)
+## Coding Languages
 - C/C++
-- Lua
-- Python
-- Java
-- JavaScript
 - C#
+- Go
+- Java
+- Python
+- Vue.js
 - SCSS
+- JavaScript
 
 ## About
 A young business founder that intends to emphasize passion and quality in products for our community.
